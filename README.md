@@ -25,7 +25,7 @@ Swagger Info:
 
 The following Insomnia Workspace will help you to better understand the flow of the API.
 
-1. Download the Workspace project (`Insomnia v4 - JSON`) [here](demo-alice-onboarding-insomnia.zip)
+1. [Download](demo-alice-onboarding-insomnia.zip) the Workspace project (`Insomnia v4 - JSON`).
 2. Import the Workspace in the Insomnia. `Import/Export -> Import Data -> From File`
 3. Activate just installed Workspace Demo ALiCE Onboarding.
 4. Configure your API TOKEN. `Manage Environments -> Base Environment -> apikey_client`
