@@ -8,3 +8,21 @@ ALiCE Onboarding API provides the core functionalities of an onboarding process.
 * Identity verification of the user against the photographs of the documents, providing a facial matching score for each document.
 * PAD analysis to detect signs of spoofing attacks through printed photographs or pictures and videos shown on screen.
 * Generation of reports with all the information extracted from a user for onboarding processes.
+
+## ALiCE Onboarding API
+
+Swagger Info: 
+
+* [Auth](https://apis.alicebiometrics.com/auth/ui/#/)
+* [Onboarding](https://apis.alicebiometrics.com/onboarding/ui/#/)
+
+
+## Onboarding Workflow
+
+![Onboarding Workflow](images/onboarding_api_workflow.png)
+
+## How to
+
+![Insomnia Guide](images/insomnia_guide.png)
+
+
