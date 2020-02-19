@@ -19,7 +19,8 @@ Swagger Info:
 
 ## Onboarding Workflow
 
-![Onboarding Workflow](images/onboarding_api_workflow.png)
+<img src="images/onboarding_api_workflow.png" width="500">
+
 
 ## Getting Started
 
@@ -30,8 +31,17 @@ The following Insomnia Workspace will help you to better understand the flow of 
 3. Activate just installed Workspace Demo ALiCE Onboarding.
 4. Configure your API TOKEN. `Manage Environments -> Base Environment -> apikey_client`
 
-![Insomnia Example Configuration](images/insomnia_example_configuration.png)
+<img src="images/insomnia_example_configuration.png" width="500">
 
 5. Check following steps to complete an ALiCE Onboarding using Insomnia:
 
-![Insomnia Guide](images/insomnia_guide.png)
+<img src="images/insomnia_guide.png" width="500">
+
+
+## Documentation :page_facing_up:
+
+For more information about ALiCE Onboarding:  https://docs.alicebiometrics.com/onboarding/
+
+## Contact :mailbox_with_mail:
+
+support@alicebiometrics.com
