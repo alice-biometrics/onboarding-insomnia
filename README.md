@@ -9,6 +9,14 @@ ALiCE Onboarding API provides the core functionalities of an onboarding process.
 * PAD analysis to detect signs of spoofing attacks through printed photographs or pictures and videos shown on screen.
 * Generation of reports with all the information extracted from a user for onboarding processes.
 
+
+## Table of Contents
+- [ALiCE Onboarding API](#alice-onboarding-api)
+- [Onboarding Workflow](#onboarding-workflow)
+- [Getting Started :chart_with_upwards_trend:](#getting-started-chart_with_upwards_trend)
+- [Documentation :page_facing_up:](#documentation-page_facing_up)
+- [Contact :mailbox_with_mail:](#contact-mailbox_with_mail)
+
 ## ALiCE Onboarding API
 
 Swagger Info: 
@@ -22,7 +30,7 @@ Swagger Info:
 <img src="images/onboarding_api_workflow.png" width="500">
 
 
-## Getting Started
+## Getting Started :chart_with_upwards_trend:
 
 The following Insomnia Workspace will help you to better understand the flow of the API.
 
