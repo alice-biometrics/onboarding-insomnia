@@ -1,4 +1,4 @@
-# onboarding-insomnia
+# onboarding-insomnia :dizzy_face:
 
 ALiCE Onboarding API provides the core functionalities of an onboarding process. It includes:
 
