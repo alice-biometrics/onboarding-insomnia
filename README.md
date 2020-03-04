@@ -1,4 +1,4 @@
-# onboarding-insomnia :dizzy_face:
+# onboarding-insomnia <img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/insomnia.png" width="30">
 
 ALiCE Onboarding API provides the core functionalities of an onboarding process. It includes:
 
