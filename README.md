@@ -23,7 +23,6 @@ ALiCE Onboarding API provides the core functionalities of an onboarding process.
 
 Swagger Info: 
 
-* [Auth](https://apis.alicebiometrics.com/auth/ui/#/)
 * [Onboarding](https://apis.alicebiometrics.com/onboarding/ui/#/)
 
 
